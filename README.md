@@ -37,3 +37,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 [Home](https://kolumnin.github.io/KOLUMNIN.com/)
 [Image](https://kolumnin.github.io/08-53-44-customLogo.gif)
+[Default](https://kolumnin.github.io/KOLUMNIN.com/Default.html)
